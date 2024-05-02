@@ -1,0 +1,73 @@
+.container{
+    margin: 0 auto;
+    width: 100%;
+    height: 100vh;
+    
+}
+.box1{
+    width: 1200px;
+    height: 800px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+.cardi{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 20px;
+}
+.card1{
+    width: 350px;
+    height: 354px;
+    border-radius: 20px;
+    background-color: white;
+}
+.rer{
+    width: 91.98px;
+    height: 90px;
+    margin-top: 30px;
+   margin-left: 30px;
+
+}
+.card2{
+    font-size: 24px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.rer2{
+    width: 61.86px;
+    height: 85px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.rer1{
+    width: 266px;
+    height: 84px;
+    margin-top: 30px;
+    margin-left: 30px;
+    color:#7D7987;
+    font-size: 16px;
+}
+.rer3{
+    width: 67.29px;
+    height: 95px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.rer4{
+    width: 67.08px;
+    height: 95px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.rer5{
+    width: 80px;
+    height: 71.15px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.rer7{
+    width: 69.42px;
+    height: 95px;
+    margin-top: 30px;
+   margin-left: 30px;
+}
